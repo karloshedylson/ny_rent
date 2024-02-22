@@ -18,9 +18,9 @@
 
 ---
 
-#### Testando o Modelo:
+#### Teste do modelo:
 
-Para testar o Modelo, recomendo utilizar o seguinte código:
+Para testar o modelo, utilize o seguinte código:
 
 ``` py
 git clone https://github.com/karloshedylson/ny_rent.git
