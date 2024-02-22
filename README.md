@@ -5,7 +5,7 @@
 > Temos um conjunto de dados com 48.894 linhas e 16 colunas, que será utilizado para desenvolver uma estratégia de precificação para uma plataforma de aluguel temporário na cidade de Nova York. Como estamos fazendo uma previsão do preços, este é um problema de **regressão**.
 
 > #### Análise:
-> Além das análises desenvolvidas no Juypter Notebook: [NewYork_RentPrediction.ipynb](https://github.com/karloshedylson/ny_rent/blob/main/NewYork_RentPrediction.ipynb), também fizemos um documento em [.PDF](https://github.com/karloshedylson/ny_rent/blob/main/NewYork_RentPrediction.pdf) para auxiliar no entendimento do processo.
+> Além das análises desenvolvidas no Juypter Notebook: [.ipynb](https://github.com/karloshedylson/ny_rent/blob/main/LH_CD_Karlos_Hedylson_Sousa_Silva.ipynb), também fizemos um documento em [.PDF](https://github.com/karloshedylson/ny_rent/blob/main/ReportNewYork_RentPrediction.pdf) para auxiliar no entendimento do processo.
 
 #### Modelo escolhido:
 > Testamos diferentes modelos de regressão como Linear, Ridge, Lasso, Decision Tree e Random Forest, e avaliando todos com base no R2 Score. Após os testes, identificamos que o modelo de **Random Forest Regression** demonstrou ser o mais eficaz pois obteve um R²-train (0.929) e um R²-test (0.532).
