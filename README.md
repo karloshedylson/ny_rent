@@ -1,4 +1,4 @@
-# LH_CD_Karlos_Hedylson_Sousa_Silva
+# LH_CD_KARLOS_HEDYLSON_SOUSA_SILVA
 
 ---
 #### Sobre o dataset:
